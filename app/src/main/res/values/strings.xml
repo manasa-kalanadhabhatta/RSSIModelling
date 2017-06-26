@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSSI Modelling</string>
+    <string name="button1">5m</string>
+    <string name="button2">5√2m</string>
+    <string name="button3">10m</string>
+    <string name="button4">10√2m</string>
+    <string name="button5">15m</string>
+    <string name="button6">15√2m</string>
+    <string name="button7">20m</string>
+    <string name="button8">20√2m</string>
+    <string name="button9">25m</string>
+    <string name="button10">25√2m</string>
+</resources>
